@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* https://vanned.info/3dttt.html
